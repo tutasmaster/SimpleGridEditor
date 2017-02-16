@@ -2,7 +2,6 @@
 This is a simple grid editor that uses minecraft textures that i made while i was bored.
 It is made in Code::Blocks C++ with the SFML 2.0 library as a core of it.
 
-
 Binds:
 F1 Save
 F2 Load
